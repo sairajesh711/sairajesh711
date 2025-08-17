@@ -8,13 +8,13 @@ My journey into product began with a fascination for neural networks and ML duri
 <a href="https://www.google.com/search?q=https://sairajesh711.github.io" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"/>
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/%3Chandle%3E" target="_blank">
+<a href="www.linkedin.com/in/sairajeshdonkana" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/<handle>" target="_blank">
+<a href="https://x.com/iamsairajesh711" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/X-Follow-black%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X (formerly Twitter)"/>
 </a>
-<a href="https://instagram.com/<handle>" target="_blank">
+<a href="https://www.instagram.com/the.backpacking.fakir" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-Creator-purple%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"/>
 </a>
 </p>
