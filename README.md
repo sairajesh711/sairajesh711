@@ -1,15 +1,18 @@
 <h1 align="center">Sai Rajesh Donkana | AI Product Manager (FinTech & MLOps)</h1>
 
 <p align="center">
-I build robust, focused projects that bridge the gap between enterprise FinTech, MLOps, and hands-on ML. My work translates complex technical challenges into clear, customer-centric products, drawing on experience scaling lending products at <strong>JPMorgan Chase</strong>, defining MLOps user journeys at <strong>RagaAI</strong>, and building ML models at <strong>Citi</strong>.
+My journey into product began with a fascination for neural networks and ML during my engineering studies at <strong>NIT Trichy</strong>. This curiosity led me from building web and Android apps to a 3-year stint as a Software Developer at <strong>Citi</strong>, where I built real-world financial tools. Driven to understand the "why" behind the "what," I pursued an MBA at <strong>IIM Bangalore</strong> to bridge the gap between technical execution and business strategy—a journey I accelerated with hands-on PM experience at the AI startup <strong>RagaAI</strong>. Now at <strong>JPMorgan Chase</strong> in London, I bring this unique blend of engineering and product thinking to build and scale enterprise lending products.
 </p>
 
 <p align="center">
-<a href="https://<your-username>.github.io" target="_blank">
+<a href="https://www.google.com/search?q=https://sairajesh711.github.io" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"/>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/%3Chandle%3E" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/<handle>" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-Follow-black%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X (formerly Twitter)"/>
 </a>
 <a href="https://instagram.com/<handle>" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-Creator-purple%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"/>
@@ -44,11 +47,11 @@ How to reach me: Feel free to drop me a message on LinkedIn.
 <details>
 <summary>📈 GitHub Stats & Tech Stack</summary>
 
-<!-- Replace your-username with your actual GitHub username for these to work -->
+<!-- These stats cards are now linked to your GitHub username -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dminimal%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dminimal%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsairajesh711%26show_icons%3Dtrue%26theme%3Dminimal%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsairajesh711%26layout%3Dcompact%26theme%3Dminimal%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 
 <!-- Your Tech Stack Badges -->
