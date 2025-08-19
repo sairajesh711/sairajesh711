@@ -34,7 +34,7 @@ Dev &amp; ML @ <strong>Citi</strong> → MBA @ <strong>IIM Bangalore</strong> �
 
 | Project | What it is | Stack |
 |---|---|---|
-| [UK Loan & Investment Visualizer]([https://github.com/sairajesh711/uk-loan-visualizer](https://sairajesh711.github.io/uk-loan-visualizer/)) | Design-first UI to compare **overpay vs invest** trade-offs | HTML.CSS.Javascript |
+| [UK Loan & Investment Visualizer](https://github.com/sairajesh711/uk-loan-visualizer) | Design-first UI to compare **overpay vs invest** trade-offs | HTML.CSS.Javascript |
 | [Mafia Night App](https://github.com/sairajesh711/mafia-lite) | Real-time social deduction host: **lobby + roles + day/night** | React (realtime later) |
 | [AI Itinerary Crafter](https://github.com/sairajesh711/ai-itinerary) | Prompt co-pilot with **vibe selectors** → structured itineraries | Next.js · OpenAI |
 
