@@ -43,7 +43,7 @@ I build AI products to find out where AI genuinely helps, and where it doesn't.
 
 | Project | What it is | Status |
 |---|---|---|
-| **FPL Buddy** | AI adviser for Fantasy Premier League that gives advice for your actual team, with an honest sense of how sure it is | Live with beta users |
+| **FPL Buddy** | FPL managers don't need more stats; they need to know what to do with their own team this week. A data product with its own pipeline and projection engine that looks at your actual team, then advises on line-up, captain, transfers and your mini-league. Tested against real past seasons, honest about how sure it is | Live with beta users |
 | **Values Quiz** | Helps people see what they actually value, separate from party loyalty. Private by design: nothing stored, no AI at runtime | In review before launch |
 | [Project Architect](https://github.com/sairajesh711/project-architect) | Open-source Claude Code plugin that turns a project idea into a lean, well-structured starting point | Open source |
 | [AI Itinerary Crafter](https://ai-itinerary-frontend.vercel.app/) | Travel co-pilot that turns vague trip ideas into personalised day-by-day plans | Live |
